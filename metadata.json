@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of LectureLens: Interactive Learning Studio",
+  "description": "An AI-powered educational platform that transforms raw lecture notes into structured, bilingual, and interactive learning experiences with 3D visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
